@@ -1,0 +1,16 @@
+{
+    "name": "vuetable-2-data-mode-with-pagination-using-data-manager-prop",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+      "v2.0"
+    ],
+    "homepage": "https://codesandbox.io/s/y0z80ooxk9",
+    "main": "index.js",
+    "dependencies": {
+      "axios": "latest",
+      "lodash": "latest",
+      "vue": "2.5.2",
+      "vuetable-2": "next"
+    }
+  }
